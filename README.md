@@ -42,9 +42,10 @@ sudo apt-get install phd2 phdlogview
 sudo apt-get install ser-player
 
 #12) Install Astrometry.net solver
+
 sudo apt-get install astrometry.net
 
-#13) Download offlinee indexes for astrometry
+#13) Download offline indexes for astrometry
 cd /home
 mkdir astrometry 
 cd astrometry
