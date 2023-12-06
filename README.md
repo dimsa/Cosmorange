@@ -15,7 +15,8 @@ Analog of Astroberry Server using Orange Pi and open-source technologies
 **#3)** Now it's better to use SSH. Install Putty for Windows. Find the IP of OrangePI (I used Router Page for this) and make connection to it.
 
 **#4)** Flash emmc. Go to Linux Terminal and then do the following command (Here is video https://www.youtube.com/watch?v=t8IkQBq34WA)
-``` sudo /usr/sbin/nand-sata-install
+```
+sudo /usr/sbin/nand-sata-install
 #Select Boot from Emmc - sytem on emmc
 #Then - yes
 #Then select ext4 filesystem
